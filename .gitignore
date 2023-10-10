@@ -1,0 +1,6 @@
+train.csv
+validation.csv
+w2v_embedding_model
+week3pj_tokens_eng_w2v
+week3pj_tokens_eng_w2v_reg
+.vector_cache

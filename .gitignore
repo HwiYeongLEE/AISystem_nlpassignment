@@ -1,0 +1,6 @@
+./Week3/train.csv
+./Week3/validation.csv
+./Week3/w2v_embedding_model
+./Week3/week3pj_tokens_eng_w2v
+./Week3/week3pj_tokens_eng_w2v_reg
+./Week3/.vector_cache
